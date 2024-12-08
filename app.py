@@ -26,6 +26,7 @@ authenticator = Authenticate(
 )
 
 authenticator.login()
+str.write(user et mdp : les memes que sur l'exemple de la quete wild)
 
 
 def accueil():
